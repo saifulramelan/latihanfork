@@ -1,4 +1,5 @@
 <?php 
-echo = "Latihan Fork";
+echo = "Latihan Fork <br>";
+echo ="Buatan Timur";
 
 ?>
